@@ -1,0 +1,72 @@
+* {    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins", sans-serif;
+}
+
+.add {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+.exit {
+    margin-left: 80px;
+}
+.exit:hover {
+    color: red;
+    cursor: pointer;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+    background-color: white;
+    position: sticky;
+    top: 0%;
+    
+}
+.nav__s2{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+}
+
+.nav__s2 a{
+    text-decoration: none;
+    color: black;
+}
+.nav__s21:hover{
+    border-bottom: solid 2px rgb(231, 25, 25);
+    color:rgb(231, 25, 25);
+}
+.nav__s22:hover{
+    border-bottom: solid 2px rgb(231, 25, 25);
+    color:rgb(231, 25, 25);
+}
+.nav__s23:hover{
+    border-bottom: solid 2px rgb(231, 25, 25);
+    color:rgb(231, 25, 25);
+}
+.nav__s24:hover{
+    border-bottom: solid 2px rgb(231, 25, 25);
+    color:rgb(231, 25, 25);
+}
+.nav__s25:hover{
+    border-bottom: solid 2px rgb(231, 25, 25);
+    color:rgb(231, 25, 25);
+}
+.img{
+    position: relative;
+}
+.txt{
+    position: absolute;
+}
+
+
+
+
