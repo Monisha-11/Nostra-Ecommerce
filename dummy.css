@@ -1,0 +1,21 @@
+.collections{
+    display: flex;
+}
+
+.filters{
+    width: 20%;
+}
+
+.filter h1{
+    margin-left: 20px;
+}
+
+.filter input{
+    margin-left: 40px;
+}
+
+.vline{
+    background-color: black;
+    height: 100px;
+    width: 10px;
+}
